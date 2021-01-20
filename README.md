@@ -1,2 +1,2 @@
-# onlineobileShop
+# onlineMobileShop
 The project entitled Online Mobile Shopping enables customer to buy mobiles or accessories from anywhere through online. This application advertises some of the products for shopping. To buy products, customer has to create an account. Those who does not have an account, they can only view the available product. They can’t buy it. Once the customer has created account, not only he can view the products, he can also add the product to the cart and also he can place an order to buy those products. This application then generates bill for that particular customer. After the confirmation, the customer has to enter his credit card details to buy those products
